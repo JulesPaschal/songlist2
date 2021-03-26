@@ -1,0 +1,96 @@
+
+
+
+     [
+         {
+            "Title" : "Vampire",
+            "Artist" : "Dominic Fike",
+            "Genre" : "Alt/Indie",
+            "Year" :  "2020"
+        },
+
+         {
+            "Title" : "Vampire Ska",
+            "Artist" : "Horny Toad",
+            "Genre" : "Ska",
+            "Year" :  "1996"
+        },
+
+        {
+            "Title" : "Vampire",
+            "Artist" : "Noah Cunane",
+            "Genre" : "Pop",
+            "Year" :  "2020"
+        },
+
+        {
+            "Title" : "A-Punk",
+            "Artist" : "Vampire Weekend",
+            "Genre" : "Alternative",
+            "Year" :  "2008"
+        },
+
+        {
+            "Title" : "We Love Like Vampires",
+            "Artist" : "Vampire Weekend",
+            "Genre" : "Alt/Indie",
+            "Year" :  "2009"
+        },
+        {        
+            "Title":  "No Vampires Remain in Romania (Dracula Spectacular)",
+            "Artist" : "King Luan", 
+            "Genre": "Pop/Disco",
+            "Year": "2016"
+        },
+    
+        {
+            "Title": "Let's Kill Tonight",
+            "Artist": "Panic! At the Disco",
+            "Genre": "Alt/Indie", 
+            "Year": "2011" 
+        },
+        {
+            "Title": "Death of Me",
+            "Artist": "PVRIS",
+            "Genre": "Alt/Indie",
+            "Year": "2020"
+        },
+        {
+            "Title": "Seven Devils",
+            "Artist": "Florence + the Machine",
+            "Genre": "Alt/Indie",
+            "Year":  "2011"  
+        },
+    
+        {   
+            "Title": "Nothing Personal", 
+            "Artist": "Night Riots", 
+            "Genre": "Alt/Rock", 
+            "Year": "2017"   
+        },
+        {
+            "Title": "Slither", 
+            "Artist": "Bohnes", 
+            "Genre": "Alt/Rock", 
+            "Year": "2018" 
+        },
+        {
+            "Title": "Tokyo(Vampires and Wolves)", 
+            "Artist": "The Wombats", 
+            "Genre": "Alt/Rock",
+            "Year": "2011" 
+        },
+        {
+            "Title": "You're Dead", 
+            "Artist": "Norma Tanega", 
+            "Genre": "Folk", 
+            "Year": "1966" 
+        },
+        {
+            "Title": "Raging on a Sunday", 
+            "Artist": "Bohnes", 
+            "Genre": "Alt/Rock", 
+            "Year": "2018" 
+        }
+    ]
+
